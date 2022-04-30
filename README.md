@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-miller-dev
-- 👀 I’m interested in building things to make a difference.
+- 👀 I’m interested in building things to make a difference in my life and in the lives of others'.
 - 🌱 I’m currently learning CSS, Tailwind, and Vanilla JS (getting there!).
-- 💞️ I’m looking to collaborate on ... not sure - working on it.
+- 💞️ I’m looking to collaborate on ... not sure - still trying to work out how to collaborate haha.
 - 📫 How to reach me: jasonmiller.dev@gmail.com
 
 <!---
